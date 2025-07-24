@@ -26,5 +26,8 @@ The user can select Rock, Paper, or Scissors and play against the computer, whic
 
 **Angshuk Chakraborty** 
 
-This project is for personal and learning use only.
+---
+📜 Note
+
+**This project is for personal and learning use only.**
 
